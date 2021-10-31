@@ -75,10 +75,11 @@ https://macabre-vault-58838.herokuapp.com/orders/:id/
 
 ## Used technologies
 
--   express Js
--   mongodb atlas
--   JavaScript
--   VS Code
+- express Js
+- mongodb atlas
+- JavaScript
+- Node.js
+- VS Code
 
 ## Key Topics
 
