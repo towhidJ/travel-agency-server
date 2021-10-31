@@ -1,6 +1,6 @@
 # Travel Agency
 
-Live Website Link [https://macabre-vault-58838.herokuapp.com/](https://macabre-vault-58838.herokuapp.com//).
+Live Website Link [https://macabre-vault-58838.herokuapp.com/](https://macabre-vault-58838.herokuapp.com/).
 
 ## Features Offered
 
