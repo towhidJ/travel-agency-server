@@ -13,12 +13,12 @@ exciting visitors can also share their experiences through the forums on the
 web site.
 Following is a detailed description of the features offered
 
-#Events Add Api
+# Events Add Api
 - Get Events
 - Add Travel Events
 - Update Events
 - Delete Events
-#Order Manage Api
+# Order Manage Api
 - Get Order
 - Add Order
 - Update Order
@@ -29,44 +29,44 @@ Following is a detailed description of the features offered
 
 
 
-##List all Events
+#### List all Events
 
 ```sh
 https://macabre-vault-58838.herokuapp.com/events
 ```
-##Add Event
+#### Add Event
 
 ```sh
 https://macabre-vault-58838.herokuapp.com/addEvent
 ```
 
-##Delete Event by id
+#### Delete Event by id
 
 ```sh
 https://macabre-vault-58838.herokuapp.com/events/:id/
 ```
 
 
-##List all Orders
+#### List all Orders
 
 ```sh
 https://macabre-vault-58838.herokuapp.com/orders
 ```
 
-##List all Orders by user email
+#### List all Orders by user email
 
 ```sh
 https://macabre-vault-58838.herokuapp.com//orders/byEmail
 ```
 
-##Add booking Order
+#### Add booking Order
 
 
 ```sh
 https://macabre-vault-58838.herokuapp.com/orders
 ```
 
-##Delete Event by id
+### Delete Event by id
 
 ```sh
 https://macabre-vault-58838.herokuapp.com/orders/:id/
